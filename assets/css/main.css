@@ -7,7 +7,7 @@ a:hover {
 	text-decoration: none;
 }
 body {
-	background-color: #202228;
+	background-color: #000000;
 	color: #fff;
 	-webkit-font-smoothing: antialiased;
 }
@@ -34,7 +34,7 @@ textarea {
 }
 
 thead, tbody, tfoot {
-    background-color: #202228;
+    background-color: #000000;
 }
 
 /*--------------------- Common Css End ----------------*/
@@ -84,7 +84,7 @@ blockquote {
 	border-radius: 25px;
 	font-size: 9px;
 	color: #333;
-    background-color: #202228;
+    background-color: #000000;
     margin-top: 30px;
     border: 1px solid;
     padding: 10px 20px;
@@ -195,7 +195,7 @@ a.btn.btn-tobais.btn-reset:hover {
 }
 a.btn.btn-tobais.btn-send:hover {
 	color: #fff;
-	background-color: #202228;
+	background-color: #000000;
 }
 .img-fit{
 	display: block;
@@ -270,7 +270,7 @@ img.img-responsive {
 	background-color: #fff;
 }
 .btn-reset {
-	background-color: #202228;
+	background-color: #000000;
 	border-style: 1px solid;
 	border-color: #555b6b;
 	color: #fff;
@@ -380,7 +380,7 @@ ul.social-icon {
 }
 
 .table-hover>tbody>tr:hover {
-     background-color: #202228;
+     background-color: #000000;
 }
 
 @media only screen and (max-width: 768px) {
@@ -526,8 +526,8 @@ a.notify-me {
 }
 
 .logo span img {
-	width: 30px;
-    height: 30px;
+	width: 20px;
+    height: 20px;
     margin-top: -5px;
 }
 /*-------------------------- Element Head End ----------------------------*/
@@ -601,7 +601,7 @@ a.notify-me {
 	max-width: 80%;
 	height: 100%;
 	-webkit-overflow-scrolling: touch;
-	background: #2a2e3d;
+	background: #000000;
 	color: #ffffff;
 	cursor: default;
 	visibility: hidden;
@@ -979,13 +979,13 @@ a {
 }
 
 .slide1 {
-    background: url(../images/slider1.jpg);
+    background: url(../images/slider1.gif);
 }
 .slide2 {
-    background: url(../images/slider2.jpg);
+    background: url(../images/slider2.gif);
 }
 .slide3 {
-    background: url(../images/slider3.jpg);
+    background: url(../images/slider3.gif);
 }
 
 .bg {
