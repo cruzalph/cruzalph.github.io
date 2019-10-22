@@ -515,7 +515,7 @@ a.notify-me {
 }
 
 .logo {
-	font-size: 58px;
+	font-size: 36px;
 	font-weight: bold;
 	color: #fff;
 	text-decoration: none;
@@ -526,8 +526,8 @@ a.notify-me {
 }
 
 .logo span img {
-	width: 40px;
-    height: 40px;
+	width: 30px;
+    height: 30px;
     margin-top: -5px;
 }
 /*-------------------------- Element Head End ----------------------------*/
