@@ -7,19 +7,19 @@ a:hover {
 	text-decoration: none;
 }
 body {
-	background-color: #000000;
+	background-color: #202228;
 	color: #fff;
 	-webkit-font-smoothing: antialiased;
 }
 
 p {
-	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
-	font-size: 25px;
+	font-family: 'Rubik-Light', sans-serif;
+	font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	color: #fff;
-	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Rubik-Light', sans-serif;
 }
 
 hr {
@@ -34,7 +34,7 @@ textarea {
 }
 
 thead, tbody, tfoot {
-    background-color: #000000;
+    background-color: #202228;
 }
 
 /*--------------------- Common Css End ----------------*/
@@ -84,7 +84,7 @@ blockquote {
 	border-radius: 25px;
 	font-size: 9px;
 	color: #333;
-    background-color: #000000;
+    background-color: #202228;
     margin-top: 30px;
     border: 1px solid;
     padding: 10px 20px;
@@ -195,7 +195,7 @@ a.btn.btn-tobais.btn-reset:hover {
 }
 a.btn.btn-tobais.btn-send:hover {
 	color: #fff;
-	background-color: #000000;
+	background-color: #202228;
 }
 .img-fit{
 	display: block;
@@ -270,7 +270,7 @@ img.img-responsive {
 	background-color: #fff;
 }
 .btn-reset {
-	background-color: #000000;
+	background-color: #202228;
 	border-style: 1px solid;
 	border-color: #555b6b;
 	color: #fff;
@@ -380,7 +380,7 @@ ul.social-icon {
 }
 
 .table-hover>tbody>tr:hover {
-     background-color: #000000;
+     background-color: #202228;
 }
 
 @media only screen and (max-width: 768px) {
@@ -515,7 +515,7 @@ a.notify-me {
 }
 
 .logo {
-	font-size: 36px;
+	font-size: 50px;
 	font-weight: bold;
 	color: #fff;
 	text-decoration: none;
@@ -526,8 +526,8 @@ a.notify-me {
 }
 
 .logo span img {
-	width: 20px;
-    height: 20px;
+	width: 40px;
+    height: 40px;
     margin-top: -5px;
 }
 /*-------------------------- Element Head End ----------------------------*/
@@ -601,7 +601,7 @@ a.notify-me {
 	max-width: 80%;
 	height: 100%;
 	-webkit-overflow-scrolling: touch;
-	background: #000000;
+	background: #2a2e3d;
 	color: #ffffff;
 	cursor: default;
 	visibility: hidden;
@@ -792,7 +792,7 @@ body.is-menu-visible #menu {
     color: #fff;
     text-align: center;
     padding: 90px 0px;
-    background-color: #000;
+    background-color: #1e2026;
 }
 
 .owl-carousel .owl-nav .owl-next {
@@ -979,13 +979,13 @@ a {
 }
 
 .slide1 {
-    background: url(../images/slider1.gif);
+    background: url(../images/slider1.jpg);
 }
 .slide2 {
-    background: url(../images/slider2.gif);
+    background: url(../images/slider2.jpg);
 }
 .slide3 {
-    background: url(../images/slider3.gif);
+    background: url(../images/slider3.jpg);
 }
 
 .bg {
@@ -1024,9 +1024,9 @@ a {
 	font-weight: 900;
 }
 
-@media screen and (max-width: 780px){
+@media screen and (max-width: 600px){
 .mfp-arrow {
-    top: 100%;
+    top: 38%;
 	}
 }
 
